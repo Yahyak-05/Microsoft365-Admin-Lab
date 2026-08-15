@@ -83,20 +83,18 @@ Key objectives include:
   ----------------- ----------------- ----------------- ----------------------------------------------------------------------------------------------------------------------
   1                 Create a new user ✅ Complete       [View
                     and assign a                        Lab](https://github.com/Yahyak-05/Microsoft365-Admin-Lab/blob/main/User%20Creation%20%26%20License%20Assignment.pdf)
-                    Microsoft 365                       
-                    license                             
-
+                    Microsoft 365  license                             
+                     
+                    
   2                 Reset a user's    ✅ Complete       [View Lab](https://github.com/Yahyak-05/Microsoft365-Admin-Lab/blob/main/Password_Reset.pdf)
                     password                            
 
   3                 Add a user to a   ✅ Complete       [View Lab](https://github.com/Yahyak-05/Microsoft365-Admin-Lab/blob/main/Add-user-to-group.pdf)
-                    Microsoft 365                       
-                    group                               
+                    Microsoft 365  group                       
+                                                 
 
   4                 Disable and       ✅ Complete       [View Lab](https://github.com/Yahyak-05/Microsoft365-Admin-Lab/blob/main/Offboarding-User-guide.pdf)
-                    delete a user as                    
-                    part of                             
-                    offboarding                         
+                    delete a user as part of offboarding                         
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
