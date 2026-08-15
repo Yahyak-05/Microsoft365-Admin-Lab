@@ -98,15 +98,6 @@ Key objectives include:
                     part of                             
                     offboarding                         
 
-  5                 Access Outlook,   🚧 In Progress    **[Documentation Link - Coming Soon](#)**
-                    OneDrive, and                       
-                    Teams settings                      
-                    from the Admin                      
-                    Center                              
-
-  6                 Change sharing    🚧 In Progress    **[Documentation Link - Coming Soon](#)**
-                    permissions on a                    
-                    OneDrive folder                     
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
