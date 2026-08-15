@@ -6,12 +6,12 @@ Hands-on documentation of common Microsoft 365 admin tasks, performed and record
 
 | # | Task | Folder |
 |---|------|--------|
-| 1 | Create a new user and assign a license | [add later] |
-| 2 | Reset a user's password | [add later] |
-| 3 | Add a user to a group | [add later] |
-| 4 | Disable and delete a user (offboarding) | [add later] |
-| 5 | Access Outlook, OneDrive, and Teams settings from the admin panel | [add later] |
-| 6 | Change sharing permissions on a OneDrive folder | [add later] |
+| 1 | Create a new user and assign a license |  |
+| 2 | Reset a user's password | |
+| 3 | Add a user to a group |  |
+| 4 | Disable and delete a user (offboarding) |  |
+| 5 | Access Outlook, OneDrive, and Teams settings from the admin panel |  |
+| 6 | Change sharing permissions on a OneDrive folder |  |
 
 ## Skills Demonstrated
 
